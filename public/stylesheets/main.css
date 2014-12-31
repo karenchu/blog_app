@@ -1,0 +1,18 @@
+body {
+	margin: 0 auto;
+	background: url('http://i.imgur.com/2FXTZdK.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 1401px;
+}
+
+h1 {
+	font-family: 'Poiret One', cursive;
+	font-size: 15em;
+	color: white;
+	padding-left: 2.8em;
+	padding-top: 1em;
+}
+
